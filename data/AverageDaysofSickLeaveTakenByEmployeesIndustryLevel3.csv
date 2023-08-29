@@ -1,0 +1,361 @@
+year,industry1,industry2,industry3,sick_leave,avg_days_per_absentee,avg_days_per_employee
+2011,manufacturing,"food, beverages and tobacco","food, beverages and tobacco",hospitalisation leave,17.6,0.5
+2011,manufacturing,paper/rubber/plastics products and printing,paper/rubber/plastics products and printing,hospitalisation leave,15.8,0.7
+2011,manufacturing,"petroleum, chemical and pharmaceutical products","petroleum, chemical and pharmaceutical products",hospitalisation leave,15.1,0.8
+2011,manufacturing,fabricated metal products and machinery,fabricated metal products and machinery,hospitalisation leave,17.5,0.6
+2011,manufacturing,electronic and computer products,electronic and computer products,hospitalisation leave,11.7,0.6
+2011,manufacturing,transport equipment,transport equipment,hospitalisation leave,19.3,0.6
+2011,manufacturing,other manufacturing industries,other manufacturing industries,hospitalisation leave,15.9,0.7
+2011,construction,construction,construction,hospitalisation leave,20.8,0.4
+2011,services,wholesale and retail trade,wholesale trade,hospitalisation leave,17.8,0.5
+2011,services,wholesale and retail trade,retail trade,hospitalisation leave,18.3,0.6
+2011,services,transportation and storage,land transport and supporting services,hospitalisation leave,22.5,1.4
+2011,services,transportation and storage,water transport and supporting services,hospitalisation leave,19.1,0.6
+2011,services,transportation and storage,air transport and supporting services,hospitalisation leave,s,s
+2011,services,transportation and storage,other transport and storage services,hospitalisation leave,16.7,1
+2011,services,accommodation and food services,accommodation,hospitalisation leave,18.3,0.9
+2011,services,accommodation and food services,food and beverage services,hospitalisation leave,17.4,0.3
+2011,services,information and communications,"telecommunications, broadcasting and publishing",hospitalisation leave,14.5,0.7
+2011,services,information and communications,it and other information services,hospitalisation leave,12,0.3
+2011,services,financial and insurance services,financial services,hospitalisation leave,11.1,0.6
+2011,services,financial and insurance services,insurance services,hospitalisation leave,13.4,0.7
+2011,services,real estate services,real estate services,hospitalisation leave,14.5,0.9
+2011,services,professional services,"legal, accounting and management services",hospitalisation leave,11.9,0.6
+2011,services,professional services,architectural and engineering services,hospitalisation leave,13.5,0.4
+2011,services,professional services,other professional services,hospitalisation leave,12.8,0.5
+2011,services,administrative and support services,security and investigation,hospitalisation leave,21.5,0.8
+2011,services,administrative and support services,cleaning and landscaping,hospitalisation leave,16.8,0.3
+2011,services,administrative and support services,other adminstrative and support services,hospitalisation leave,19.1,0.5
+2011,services,"community, social and personal services",education,hospitalisation leave,13.8,0.6
+2011,services,"community, social and personal services",health and social services,hospitalisation leave,14,1.3
+2011,services,"community, social and personal services","other community, social and personal services",hospitalisation leave,16.8,0.7
+2011,manufacturing,"food, beverages and tobacco","food, beverages and tobacco",outpatient sick leave,3.8,2
+2011,manufacturing,paper/rubber/plastics products and printing,paper/rubber/plastics products and printing,outpatient sick leave,4.7,3.2
+2011,manufacturing,"petroleum, chemical and pharmaceutical products","petroleum, chemical and pharmaceutical products",outpatient sick leave,5.7,3.4
+2011,manufacturing,fabricated metal products and machinery,fabricated metal products and machinery,outpatient sick leave,4.6,3.1
+2011,manufacturing,electronic and computer products,electronic and computer products,outpatient sick leave,4.5,3.5
+2011,manufacturing,transport equipment,transport equipment,outpatient sick leave,4.2,2.3
+2011,manufacturing,other manufacturing industries,other manufacturing industries,outpatient sick leave,5.2,3.4
+2011,construction,construction,construction,outpatient sick leave,3.3,1.3
+2011,services,wholesale and retail trade,wholesale trade,outpatient sick leave,4.1,2.3
+2011,services,wholesale and retail trade,retail trade,outpatient sick leave,4.8,2.7
+2011,services,transportation and storage,land transport and supporting services,outpatient sick leave,6,3.7
+2011,services,transportation and storage,water transport and supporting services,outpatient sick leave,4,2.1
+2011,services,transportation and storage,air transport and supporting services,outpatient sick leave,s,s
+2011,services,transportation and storage,other transport and storage services,outpatient sick leave,5.1,3.5
+2011,services,accommodation and food services,accommodation,outpatient sick leave,4.4,2.7
+2011,services,accommodation and food services,food and beverage services,outpatient sick leave,3.7,1.5
+2011,services,information and communications,"telecommunications, broadcasting and publishing",outpatient sick leave,5.3,3.8
+2011,services,information and communications,it and other information services,outpatient sick leave,4.2,3
+2011,services,financial and insurance services,financial services,outpatient sick leave,4.4,2.5
+2011,services,financial and insurance services,insurance services,outpatient sick leave,4.6,3.3
+2011,services,real estate services,real estate services,outpatient sick leave,4.7,2.7
+2011,services,professional services,"legal, accounting and management services",outpatient sick leave,4.7,3.2
+2011,services,professional services,architectural and engineering services,outpatient sick leave,4.1,2.5
+2011,services,professional services,other professional services,outpatient sick leave,4.3,2.8
+2011,services,administrative and support services,security and investigation,outpatient sick leave,3.3,1.7
+2013,services,real estate services,real estate services,outpatient sick leave,5.5,3.4
+2011,services,administrative and support services,cleaning and landscaping,outpatient sick leave,2.7,1.1
+2011,services,administrative and support services,other adminstrative and support services,outpatient sick leave,4.8,2.9
+2011,services,"community, social and personal services",education,outpatient sick leave,4.8,2.7
+2011,services,"community, social and personal services",health and social services,outpatient sick leave,5.4,3.6
+2011,services,"community, social and personal services","other community, social and personal services",outpatient sick leave,6,4
+2013,manufacturing,"food, beverages and tobacco","food, beverages and tobacco",hospitalisation leave,16.4,0.5
+2013,manufacturing,paper/rubber/plastics products and printing,paper/rubber/plastics products and printing,hospitalisation leave,14.2,0.9
+2013,manufacturing,"petroleum, chemical and pharmaceutical products","petroleum, chemical and pharmaceutical products",hospitalisation leave,13.5,0.8
+2013,manufacturing,fabricated metal products and machinery,fabricated metal products and machinery,hospitalisation leave,16.1,0.6
+2013,manufacturing,electronic and computer products,electronic and computer products,hospitalisation leave,11.4,0.6
+2013,manufacturing,transport equipment,transport equipment,hospitalisation leave,13.9,0.8
+2013,manufacturing,other manufacturing industries,other manufacturing industries,hospitalisation leave,17.2,0.6
+2013,construction,construction,construction,hospitalisation leave,15.4,0.3
+2013,services,wholesale and retail trade,wholesale trade,hospitalisation leave,15.7,0.5
+2013,services,wholesale and retail trade,retail trade,hospitalisation leave,14.1,0.6
+2013,services,transportation and storage,land transport and supporting services,hospitalisation leave,22.6,1.6
+2013,services,transportation and storage,water transport and supporting services,hospitalisation leave,19.8,0.9
+2013,services,transportation and storage,air transport and supporting services,hospitalisation leave,s,s
+2013,services,transportation and storage,other transport and storage services,hospitalisation leave,14,0.9
+2013,services,accommodation and food services,accommodation,hospitalisation leave,12.1,1.2
+2013,services,accommodation and food services,food and beverage services,hospitalisation leave,15.6,0.3
+2013,services,information and communications,"telecommunications, broadcasting and publishing",hospitalisation leave,8.3,0.5
+2013,services,information and communications,it and other information services,hospitalisation leave,10.7,0.3
+2013,services,financial and insurance services,financial services,hospitalisation leave,11.9,0.6
+2013,services,financial and insurance services,insurance services,hospitalisation leave,13.1,0.8
+2013,services,real estate services,real estate services,hospitalisation leave,16.6,0.8
+2013,services,professional services,"legal, accounting and management services",hospitalisation leave,12.5,0.6
+2013,services,professional services,architectural and engineering services,hospitalisation leave,14,0.6
+2013,services,professional services,other professional services,hospitalisation leave,12.8,0.5
+2013,services,administrative and support services,security and investigation,hospitalisation leave,17.7,0.8
+2013,services,administrative and support services,cleaning and landscaping,hospitalisation leave,8.1,0.7
+2013,services,administrative and support services,other adminstrative and support services,hospitalisation leave,16.5,0.4
+2013,services,"community, social and personal services",education,hospitalisation leave,14.3,0.6
+2013,services,"community, social and personal services",health and social services,hospitalisation leave,14,1.6
+2013,services,"community, social and personal services","other community, social and personal services",hospitalisation leave,12.7,0.9
+2013,manufacturing,"food, beverages and tobacco","food, beverages and tobacco",outpatient sick leave,4.7,2.3
+2013,manufacturing,paper/rubber/plastics products and printing,paper/rubber/plastics products and printing,outpatient sick leave,5.9,4.2
+2013,manufacturing,"petroleum, chemical and pharmaceutical products","petroleum, chemical and pharmaceutical products",outpatient sick leave,5,3.2
+2013,manufacturing,fabricated metal products and machinery,fabricated metal products and machinery,outpatient sick leave,4.5,3
+2013,manufacturing,electronic and computer products,electronic and computer products,outpatient sick leave,5.2,4
+2013,manufacturing,transport equipment,transport equipment,outpatient sick leave,4.1,2.5
+2013,manufacturing,other manufacturing industries,other manufacturing industries,outpatient sick leave,4.3,2.9
+2013,construction,construction,construction,outpatient sick leave,3.4,1.4
+2013,services,wholesale and retail trade,wholesale trade,outpatient sick leave,4.4,2.5
+2013,services,wholesale and retail trade,retail trade,outpatient sick leave,4.7,2.5
+2013,services,transportation and storage,land transport and supporting services,outpatient sick leave,6.3,4
+2013,services,transportation and storage,water transport and supporting services,outpatient sick leave,4.9,2.7
+2013,services,transportation and storage,air transport and supporting services,outpatient sick leave,s,s
+2013,services,transportation and storage,other transport and storage services,outpatient sick leave,5.4,3.5
+2013,services,accommodation and food services,accommodation,outpatient sick leave,4.6,2.9
+2013,services,accommodation and food services,food and beverage services,outpatient sick leave,3.5,1.1
+2013,services,information and communications,"telecommunications, broadcasting and publishing",outpatient sick leave,5.1,3.4
+2013,services,information and communications,it and other information services,outpatient sick leave,4.2,3
+2013,services,financial and insurance services,financial services,outpatient sick leave,4.5,2.5
+2013,services,financial and insurance services,insurance services,outpatient sick leave,5.1,3.9
+2013,services,professional services,"legal, accounting and management services",outpatient sick leave,4.6,3.1
+2013,services,professional services,architectural and engineering services,outpatient sick leave,4.8,3.3
+2013,services,professional services,other professional services,outpatient sick leave,4.1,2.9
+2013,services,administrative and support services,security and investigation,outpatient sick leave,3.7,1.5
+2013,services,administrative and support services,cleaning and landscaping,outpatient sick leave,3.4,1.6
+2013,services,administrative and support services,other adminstrative and support services,outpatient sick leave,4.7,2.6
+2013,services,"community, social and personal services",education,outpatient sick leave,4.6,2.6
+2013,services,"community, social and personal services",health and social services,outpatient sick leave,5.6,3.9
+2013,services,"community, social and personal services","other community, social and personal services",outpatient sick leave,5.3,3.4
+2015,manufacturing,"food, beverages and tobacco","food, beverages and tobacco",hospitalisation leave,16.7,0.6
+2015,manufacturing,paper/rubber/plastics products and printing,paper/rubber/plastics products and printing,hospitalisation leave,14.8,0.9
+2015,manufacturing,"petroleum, chemical and pharmaceutical products","petroleum, chemical and pharmaceutical products",hospitalisation leave,13.2,0.8
+2015,manufacturing,fabricated metal products and machinery,fabricated metal products and machinery,hospitalisation leave,15.6,0.7
+2015,manufacturing,electronic and computer products,electronic and computer products,hospitalisation leave,12.7,0.7
+2015,manufacturing,transport equipment,transport equipment,hospitalisation leave,14.5,1
+2015,manufacturing,other manufacturing industries,other manufacturing industries,hospitalisation leave,15.8,0.7
+2015,construction,construction,construction,hospitalisation leave,14.7,0.4
+2015,services,wholesale and retail trade,wholesale trade,hospitalisation leave,14.2,0.7
+2015,services,wholesale and retail trade,retail trade,hospitalisation leave,12.1,0.8
+2015,services,transportation and storage,land transport and supporting services,hospitalisation leave,20.8,1.5
+2015,services,transportation and storage,water transport and supporting services,hospitalisation leave,17.6,0.8
+2015,services,transportation and storage,air transport and supporting services,hospitalisation leave,s,s
+2015,services,transportation and storage,other transport and storage services,hospitalisation leave,16.8,0.9
+2015,services,accommodation and food services,accommodation,hospitalisation leave,15.3,1.1
+2015,services,accommodation and food services,food and beverage services,hospitalisation leave,15.3,0.3
+2015,services,information and communications,"telecommunications, broadcasting and publishing",hospitalisation leave,15.5,0.9
+2015,services,information and communications,it and other information services,hospitalisation leave,10.6,0.4
+2015,services,financial and insurance services,financial services,hospitalisation leave,12,0.8
+2015,services,financial and insurance services,insurance services,hospitalisation leave,11.7,0.9
+2015,services,real estate services,real estate services,hospitalisation leave,16.7,0.9
+2015,services,professional services,"legal, accounting and management services",hospitalisation leave,5.7,0.7
+2015,services,professional services,architectural and engineering services,hospitalisation leave,15.3,0.7
+2015,services,professional services,other professional services,hospitalisation leave,12.4,0.6
+2015,services,administrative and support services,security and investigation,hospitalisation leave,19.9,1.1
+2015,services,administrative and support services,cleaning and landscaping,hospitalisation leave,16.9,0.9
+2015,services,administrative and support services,other adminstrative and support services,hospitalisation leave,19.2,0.5
+2015,services,"community, social and personal services",education,hospitalisation leave,13,0.7
+2015,services,"community, social and personal services",health and social services,hospitalisation leave,13.4,1.8
+2015,services,"community, social and personal services","other community, social and personal services",hospitalisation leave,17.3,1.1
+2015,manufacturing,"food, beverages and tobacco","food, beverages and tobacco",outpatient sick leave,4.6,2.6
+2015,manufacturing,paper/rubber/plastics products and printing,paper/rubber/plastics products and printing,outpatient sick leave,5.2,3.7
+2015,manufacturing,"petroleum, chemical and pharmaceutical products","petroleum, chemical and pharmaceutical products",outpatient sick leave,4.8,3.1
+2015,manufacturing,fabricated metal products and machinery,fabricated metal products and machinery,outpatient sick leave,4.7,3.2
+2015,manufacturing,electronic and computer products,electronic and computer products,outpatient sick leave,5.4,4.4
+2015,manufacturing,transport equipment,transport equipment,outpatient sick leave,4.5,2.9
+2015,manufacturing,other manufacturing industries,other manufacturing industries,outpatient sick leave,5,3.4
+2015,construction,construction,construction,outpatient sick leave,3.4,1.5
+2015,services,wholesale and retail trade,wholesale trade,outpatient sick leave,4.6,2.9
+2015,services,wholesale and retail trade,retail trade,outpatient sick leave,4.7,2.2
+2015,services,transportation and storage,land transport and supporting services,outpatient sick leave,6.1,3.8
+2015,services,transportation and storage,water transport and supporting services,outpatient sick leave,4.7,2.5
+2015,services,transportation and storage,air transport and supporting services,outpatient sick leave,s,s
+2015,services,transportation and storage,other transport and storage services,outpatient sick leave,5.5,3.7
+2015,services,accommodation and food services,accommodation,outpatient sick leave,4.5,3
+2015,services,accommodation and food services,food and beverage services,outpatient sick leave,4.1,1.5
+2015,services,information and communications,"telecommunications, broadcasting and publishing",outpatient sick leave,5,3.3
+2015,services,information and communications,it and other information services,outpatient sick leave,4.6,3.2
+2015,services,financial and insurance services,financial services,outpatient sick leave,4.1,2.8
+2015,services,financial and insurance services,insurance services,outpatient sick leave,5.4,3.7
+2015,services,real estate services,real estate services,outpatient sick leave,5.1,3.2
+2015,services,professional services,"legal, accounting and management services",outpatient sick leave,4.3,3
+2015,services,professional services,architectural and engineering services,outpatient sick leave,4.5,3
+2015,services,professional services,other professional services,outpatient sick leave,4.2,2.8
+2015,services,administrative and support services,security and investigation,outpatient sick leave,3.7,1.4
+2015,services,administrative and support services,cleaning and landscaping,outpatient sick leave,4.7,2.1
+2015,services,administrative and support services,other adminstrative and support services,outpatient sick leave,4.5,2.5
+2015,services,"community, social and personal services",education,outpatient sick leave,5.3,3
+2015,services,"community, social and personal services",health and social services,outpatient sick leave,5.4,3.8
+2015,services,"community, social and personal services","other community, social and personal services",outpatient sick leave,5.6,3.7
+2017,manufacturing,"food, beverages and tobacco","food, beverages and tobacco",hospitalisation leave,16.7,0.6
+2017,manufacturing,paper/rubber/plastics products and printing,paper/rubber/plastics products and printing,hospitalisation leave,12.6,0.9
+2017,manufacturing,"petroleum, chemical and pharmaceutical products","petroleum, chemical and pharmaceutical products",hospitalisation leave,12.2,0.8
+2017,manufacturing,fabricated metal products and machinery,fabricated metal products and machinery,hospitalisation leave,15.9,0.9
+2017,manufacturing,electronic and computer products,electronic and computer products,hospitalisation leave,12.6,0.7
+2017,manufacturing,transport equipment,transport equipment,hospitalisation leave,13.8,0.9
+2017,manufacturing,other manufacturing industries,other manufacturing industries,hospitalisation leave,17.6,1
+2017,construction,construction,construction,hospitalisation leave,20.6,0.5
+2017,services,wholesale and retail trade,wholesale trade,hospitalisation leave,11.9,0.8
+2017,services,wholesale and retail trade,retail trade,hospitalisation leave,15.7,1
+2017,services,transportation and storage,land transport and supporting services,hospitalisation leave,20.9,1.4
+2017,services,transportation and storage,water transport and supporting services,hospitalisation leave,21.4,1.4
+2017,services,transportation and storage,air transport and supporting services,hospitalisation leave,s,s
+2017,services,transportation and storage,other transport and storage services,hospitalisation leave,13.5,1.2
+2017,services,accommodation and food services,accommodation,hospitalisation leave,8.9,1.7
+2017,services,accommodation and food services,food and beverage services,hospitalisation leave,18.8,0.5
+2017,services,information and communications,"telecommunications, broadcasting and publishing",hospitalisation leave,11.9,0.7
+2017,services,information and communications,it and other information services,hospitalisation leave,10.6,0.4
+2017,services,financial and insurance services,financial services,hospitalisation leave,14.7,1
+2017,services,financial and insurance services,insurance services,hospitalisation leave,12.4,1.1
+2017,services,real estate services,real estate services,hospitalisation leave,16.6,0.9
+2017,services,professional services,"legal, accounting and management services",hospitalisation leave,11.2,0.9
+2017,services,professional services,architectural and engineering services,hospitalisation leave,12.8,0.6
+2017,services,professional services,other professional services,hospitalisation leave,11.1,0.6
+2017,services,administrative and support services,security and investigation,hospitalisation leave,10.6,0.9
+2017,services,administrative and support services,cleaning and landscaping,hospitalisation leave,17.5,0.8
+2017,services,administrative and support services,other adminstrative and support services,hospitalisation leave,21.9,1.1
+2017,services,"community, social and personal services",education,hospitalisation leave,10.9,0.7
+2017,services,"community, social and personal services",health and social services,hospitalisation leave,14.8,2
+2017,services,"community, social and personal services","other community, social and personal services",hospitalisation leave,19.9,1.3
+2017,manufacturing,"food, beverages and tobacco","food, beverages and tobacco",outpatient sick leave,4.6,2.3
+2017,manufacturing,paper/rubber/plastics products and printing,paper/rubber/plastics products and printing,outpatient sick leave,5,3.5
+2017,manufacturing,"petroleum, chemical and pharmaceutical products","petroleum, chemical and pharmaceutical products",outpatient sick leave,5.1,3.2
+2017,manufacturing,fabricated metal products and machinery,fabricated metal products and machinery,outpatient sick leave,5.2,3.5
+2017,manufacturing,electronic and computer products,electronic and computer products,outpatient sick leave,5.4,3.9
+2017,manufacturing,transport equipment,transport equipment,outpatient sick leave,4.7,3
+2017,manufacturing,other manufacturing industries,other manufacturing industries,outpatient sick leave,5.2,3.6
+2017,construction,construction,construction,outpatient sick leave,3.5,1.5
+2017,services,wholesale and retail trade,wholesale trade,outpatient sick leave,5.1,3.1
+2017,services,wholesale and retail trade,retail trade,outpatient sick leave,5.6,3.2
+2017,services,transportation and storage,land transport and supporting services,outpatient sick leave,5.7,3.5
+2017,services,transportation and storage,water transport and supporting services,outpatient sick leave,5.4,3.5
+2017,services,transportation and storage,air transport and supporting services,outpatient sick leave,s,s
+2017,services,transportation and storage,other transport and storage services,outpatient sick leave,5.8,4
+2017,services,accommodation and food services,accommodation,outpatient sick leave,5,3.3
+2017,services,accommodation and food services,food and beverage services,outpatient sick leave,3.7,1.3
+2017,services,information and communications,"telecommunications, broadcasting and publishing",outpatient sick leave,4.6,2.8
+2017,services,information and communications,it and other information services,outpatient sick leave,4.7,3.1
+2017,services,financial and insurance services,financial services,outpatient sick leave,4.6,2.8
+2017,services,financial and insurance services,insurance services,outpatient sick leave,4.7,3.8
+2017,services,real estate services,real estate services,outpatient sick leave,5,2.9
+2017,services,professional services,"legal, accounting and management services",outpatient sick leave,4.9,3.4
+2017,services,professional services,architectural and engineering services,outpatient sick leave,4.4,2.7
+2017,services,professional services,other professional services,outpatient sick leave,4.6,3.3
+2017,services,administrative and support services,security and investigation,outpatient sick leave,4,1.7
+2017,services,administrative and support services,cleaning and landscaping,outpatient sick leave,4.4,1.7
+2017,services,administrative and support services,other adminstrative and support services,outpatient sick leave,5.1,3.1
+2017,services,"community, social and personal services",education,outpatient sick leave,5.2,2.7
+2017,services,"community, social and personal services",health and social services,outpatient sick leave,6,4.6
+2017,services,"community, social and personal services","other community, social and personal services",outpatient sick leave,5.5,3.2
+2019,manufacturing,"food, beverages and tobacco","food, beverages and tobacco",hospitalisation leave,18,0.8
+2019,manufacturing,paper/rubber/plastics products and printing,paper/rubber/plastics products and printing,hospitalisation leave,15,1.1
+2019,manufacturing,"petroleum, chemical and pharmaceutical products","petroleum, chemical and pharmaceutical products",hospitalisation leave,11.9,1.2
+2019,manufacturing,fabricated metal products and machinery,fabricated metal products and machinery,hospitalisation leave,14.2,0.9
+2019,manufacturing,electronic and computer products,electronic and computer products,hospitalisation leave,12.3,0.9
+2019,manufacturing,transport equipment,transport equipment,hospitalisation leave,14.4,1.4
+2019,manufacturing,other manufacturing industries,other manufacturing industries,hospitalisation leave,14.6,1.5
+2019,construction,construction,construction,hospitalisation leave,18.1,0.5
+2019,services,wholesale and retail trade,wholesale trade,hospitalisation leave,12.1,0.8
+2019,services,wholesale and retail trade,retail trade,hospitalisation leave,15,1
+2019,services,transportation and storage,land transport and supporting services,hospitalisation leave,21.4,2.4
+2019,services,transportation and storage,water transport and supporting services,hospitalisation leave,22.8,1.5
+2019,services,transportation and storage,air transport and supporting services,hospitalisation leave,s,s
+2019,services,transportation and storage,other transport and storage services,hospitalisation leave,13.6,1.3
+2019,services,accommodation and food services,accommodation,hospitalisation leave,11.8,1.9
+2019,services,accommodation and food services,food and beverage services,hospitalisation leave,15.6,0.5
+2019,services,information and communications,"telecommunications, broadcasting and publishing",hospitalisation leave,15,1
+2019,services,information and communications,it and other information services,hospitalisation leave,7.7,0.5
+2019,services,financial and insurance services,financial services,hospitalisation leave,14.9,1.1
+2019,services,financial and insurance services,insurance services,hospitalisation leave,11.2,0.7
+2019,services,real estate services,real estate services,hospitalisation leave,15.7,1.2
+2019,services,professional services,"legal, accounting and management services",hospitalisation leave,13.6,1.2
+2019,services,professional services,architectural and engineering services,hospitalisation leave,9.1,0.7
+2019,services,professional services,other professional services,hospitalisation leave,8.7,0.8
+2019,services,administrative and support services,security and investigation,hospitalisation leave,17.9,1.2
+2019,services,administrative and support services,cleaning and landscaping,hospitalisation leave,15.1,0.9
+2019,services,administrative and support services,other adminstrative and support services,hospitalisation leave,14.1,0.7
+2019,services,"community, social and personal services",education,hospitalisation leave,11.9,1
+2019,services,"community, social and personal services",health and social services,hospitalisation leave,15.4,1.8
+2019,services,"community, social and personal services","other community, social and personal services",hospitalisation leave,15.4,1.4
+2019,manufacturing,"food, beverages and tobacco","food, beverages and tobacco",outpatient sick leave,5.1,2.5
+2019,manufacturing,paper/rubber/plastics products and printing,paper/rubber/plastics products and printing,outpatient sick leave,5.1,3.5
+2019,manufacturing,"petroleum, chemical and pharmaceutical products","petroleum, chemical and pharmaceutical products",outpatient sick leave,5.4,3.8
+2019,manufacturing,fabricated metal products and machinery,fabricated metal products and machinery,outpatient sick leave,5.1,3.5
+2019,manufacturing,electronic and computer products,electronic and computer products,outpatient sick leave,5.6,4.8
+2019,manufacturing,transport equipment,transport equipment,outpatient sick leave,4.8,3.2
+2019,manufacturing,other manufacturing industries,other manufacturing industries,outpatient sick leave,6.1,4.3
+2019,construction,construction,construction,outpatient sick leave,3.5,1.5
+2019,services,wholesale and retail trade,wholesale trade,outpatient sick leave,4.6,2.4
+2019,services,wholesale and retail trade,retail trade,outpatient sick leave,5.8,3.4
+2019,services,transportation and storage,land transport and supporting services,outpatient sick leave,7,5.7
+2019,services,transportation and storage,water transport and supporting services,outpatient sick leave,5.3,3.5
+2019,services,transportation and storage,air transport and supporting services,outpatient sick leave,s,s
+2019,services,transportation and storage,other transport and storage services,outpatient sick leave,5.8,4.4
+2019,services,accommodation and food services,accommodation,outpatient sick leave,4.9,4
+2019,services,accommodation and food services,food and beverage services,outpatient sick leave,3.8,1.4
+2019,services,information and communications,"telecommunications, broadcasting and publishing",outpatient sick leave,5.1,3.2
+2019,services,information and communications,it and other information services,outpatient sick leave,5.2,3.2
+2019,services,financial and insurance services,financial services,outpatient sick leave,5.2,3.4
+2019,services,financial and insurance services,insurance services,outpatient sick leave,4.9,3.2
+2019,services,real estate services,real estate services,outpatient sick leave,5.6,3.4
+2019,services,professional services,"legal, accounting and management services",outpatient sick leave,5.6,3.9
+2019,services,professional services,architectural and engineering services,outpatient sick leave,4.4,3.1
+2019,services,professional services,other professional services,outpatient sick leave,4.5,3.5
+2019,services,administrative and support services,security and investigation,outpatient sick leave,4.6,2
+2019,services,administrative and support services,cleaning and landscaping,outpatient sick leave,4.7,1.9
+2019,services,administrative and support services,other adminstrative and support services,outpatient sick leave,5.3,2.9
+2019,services,"community, social and personal services",education,outpatient sick leave,5.5,3.3
+2019,services,"community, social and personal services",health and social services,outpatient sick leave,6.3,4.8
+2019,services,"community, social and personal services","other community, social and personal services",outpatient sick leave,5.7,3.8
+2021,manufacturing,"food, beverages and tobacco","food, beverages and tobacco",hospitalisation leave,10.6,0.9
+2021,manufacturing,paper/rubber/plastics products and printing,paper/rubber/plastics products and printing,hospitalisation leave,10.6,1.5
+2021,manufacturing,"petroleum, chemical and pharmaceutical products","petroleum, chemical and pharmaceutical products",hospitalisation leave,10.6,1.2
+2021,manufacturing,fabricated metal products and machinery,fabricated metal products and machinery,hospitalisation leave,9.5,1.2
+2021,manufacturing,electronic and computer products,electronic and computer products,hospitalisation leave,8.9,1.1
+2021,manufacturing,transport equipment,transport equipment,hospitalisation leave,10.4,1
+2021,manufacturing,other manufacturing industries,other manufacturing industries,hospitalisation leave,9.9,1.6
+2021,construction,construction,construction,hospitalisation leave,9.6,0.7
+2021,services,wholesale and retail trade,wholesale trade,hospitalisation leave,9.4,0.8
+2021,services,wholesale and retail trade,retail trade,hospitalisation leave,12.2,1
+2021,services,transportation and storage,land transport and supporting services,hospitalisation leave,13.3,1.6
+2021,services,transportation and storage,water transport and supporting services,hospitalisation leave,10.6,0.8
+2021,services,transportation and storage,air transport and supporting services,hospitalisation leave,s,s
+2021,services,transportation and storage,other transport and storage services,hospitalisation leave,7.7,1
+2021,services,accommodation and food services,accommodation,hospitalisation leave,8.9,1.7
+2021,services,accommodation and food services,food and beverage services,hospitalisation leave,9.9,0.9
+2021,services,information and communications,"telecommunications, broadcasting and publishing",hospitalisation leave,7.3,0.5
+2021,services,information and communications,it and other information services,hospitalisation leave,10.3,0.5
+2021,services,financial and insurance services,financial services,hospitalisation leave,11.2,0.9
+2021,services,financial and insurance services,insurance services,hospitalisation leave,s,s
+2021,services,real estate services,real estate services,hospitalisation leave,12,1.9
+2021,services,professional services,"legal, accounting and management services",hospitalisation leave,13.2,0.8
+2021,services,professional services,architectural and engineering services,hospitalisation leave,9.5,0.8
+2021,services,professional services,other professional services,hospitalisation leave,10.2,0.7
+2021,services,administrative and support services,security and investigation,hospitalisation leave,12.5,1.2
+2021,services,administrative and support services,cleaning and landscaping,hospitalisation leave,10.3,1.4
+2021,services,administrative and support services,other adminstrative and support services,hospitalisation leave,10.5,0.8
+2021,services,"community, social and personal services",education,hospitalisation leave,11.5,0.7
+2021,services,"community, social and personal services",health and social services,hospitalisation leave,12,3.3
+2021,services,"community, social and personal services","other community, social and personal services",hospitalisation leave,14.1,2.7
+2021,manufacturing,"food, beverages and tobacco","food, beverages and tobacco",outpatient sick leave,5.3,2.5
+2021,manufacturing,paper/rubber/plastics products and printing,paper/rubber/plastics products and printing,outpatient sick leave,3.4,3.2
+2021,manufacturing,"petroleum, chemical and pharmaceutical products","petroleum, chemical and pharmaceutical products",outpatient sick leave,5.4,3.1
+2021,manufacturing,fabricated metal products and machinery,fabricated metal products and machinery,outpatient sick leave,5,3.1
+2021,manufacturing,electronic and computer products,electronic and computer products,outpatient sick leave,5.8,3.9
+2021,manufacturing,transport equipment,transport equipment,outpatient sick leave,5.5,3
+2021,manufacturing,other manufacturing industries,other manufacturing industries,outpatient sick leave,4.7,2.7
+2021,construction,construction,construction,outpatient sick leave,5.1,2.3
+2021,services,wholesale and retail trade,wholesale trade,outpatient sick leave,4.6,2.4
+2021,services,wholesale and retail trade,retail trade,outpatient sick leave,5.8,2.6
+2021,services,transportation and storage,land transport and supporting services,outpatient sick leave,8.1,4.7
+2021,services,transportation and storage,water transport and supporting services,outpatient sick leave,4,2.3
+2021,services,transportation and storage,air transport and supporting services,outpatient sick leave,s,s
+2021,services,transportation and storage,other transport and storage services,outpatient sick leave,4.7,2.6
+2021,services,accommodation and food services,accommodation,outpatient sick leave,5.1,3.2
+2021,services,accommodation and food services,food and beverage services,outpatient sick leave,5,1.9
+2021,services,information and communications,"telecommunications, broadcasting and publishing",outpatient sick leave,3.8,1.8
+2021,services,information and communications,it and other information services,outpatient sick leave,4.2,2
+2021,services,financial and insurance services,financial services,outpatient sick leave,4.8,2.2
+2021,services,financial and insurance services,insurance services,outpatient sick leave,s,s
+2021,services,real estate services,real estate services,outpatient sick leave,5.7,3.7
+2021,services,professional services,"legal, accounting and management services",outpatient sick leave,4.2,1.8
+2021,services,professional services,architectural and engineering services,outpatient sick leave,5.2,2.7
+2021,services,professional services,other professional services,outpatient sick leave,4.1,1.9
+2021,services,administrative and support services,security and investigation,outpatient sick leave,5.5,2.6
+2021,services,administrative and support services,cleaning and landscaping,outpatient sick leave,5.8,2.8
+2021,services,administrative and support services,other adminstrative and support services,outpatient sick leave,4.1,2.4
+2021,services,"community, social and personal services",education,outpatient sick leave,4.5,2
+2021,services,"community, social and personal services",health and social services,outpatient sick leave,6.5,4.3
+2021,services,"community, social and personal services","other community, social and personal services",outpatient sick leave,5.9,3.5

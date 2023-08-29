@@ -1,0 +1,37 @@
+﻿year;industry1;sick_leave;avg_days_per_absentee;avg_days_per_employee;wet_bulb;rainfall
+2011;manufacturing;hospitalisation leave;15.7;0.6;25.47987443;2524.2
+2011;construction;hospitalisation leave;20.8;0.4;25.47987443;2524.2
+2011;services;hospitalisation leave;15.9;0.7;25.47987443;2524.2
+2011;manufacturing;outpatient sick leave;4.6;3;25.47987443;2524.2
+2011;construction;outpatient sick leave;3.3;1.3;25.47987443;2524.2
+2011;services;outpatient sick leave;4.7;2.7;25.47987443;2524.2
+2013;manufacturing;hospitalisation leave;14;0.7;25.14043379;2748.4
+2013;construction;hospitalisation leave;15.4;0.3;25.14043379;2748.4
+2013;services;hospitalisation leave;14.4;0.8;25.14043379;2748.4
+2013;manufacturing;outpatient sick leave;4.7;3.1;25.14043379;2748.4
+2013;construction;outpatient sick leave;3.4;1.4;25.14043379;2748.4
+2013;services;outpatient sick leave;4.8;2.8;25.14043379;2748.4
+2015;manufacturing;hospitalisation leave;14.4;0.8;25.03592466;1267.1
+2015;construction;hospitalisation leave;14.7;0.4;25.03592466;1267.1
+2015;services;hospitalisation leave;14.5;0.9;25.03592466;1267.1
+2015;manufacturing;outpatient sick leave;4.9;3.4;25.03592466;1267.1
+2015;construction;outpatient sick leave;3.4;1.5;25.03592466;1267.1
+2015;services;outpatient sick leave;4.8;2.9;25.03592466;1267.1
+2017;manufacturing;hospitalisation leave;14.3;0.8;25.33517123;2045.6
+2017;construction;hospitalisation leave;20.6;0.5;25.33517123;2045.6
+2017;services;hospitalisation leave;14.7;1;25.33517123;2045.6
+2017;manufacturing;outpatient sick leave;5.1;3.4;25.33517123;2045.6
+2017;construction;outpatient sick leave;3.5;1.5;25.33517123;2045.6
+2017;services;outpatient sick leave;5.1;3;25.33517123;2045.6
+2019;manufacturing;hospitalisation leave;13.9;1.1;25.17326484;1367.5
+2019;construction;hospitalisation leave;18.1;0.5;25.17326484;1367.5
+2019;services;hospitalisation leave;14.6;1.1;25.17326484;1367.5
+2019;manufacturing;outpatient sick leave;5.3;3.7;25.17326484;1367.5
+2019;construction;outpatient sick leave;3.5;1.5;25.17326484;1367.5
+2019;services;outpatient sick leave;5.3;3.3;25.17326484;1367.5
+2021;manufacturing;hospitalisation leave;9.8;1.2;24.98496575;2809.6
+2021;construction;hospitalisation leave;9.6;0.7;24.98496575;2809.6
+2021;services;hospitalisation leave;11.4;1.3;24.98496575;2809.6
+2021;manufacturing;outpatient sick leave;5.2;3.1;24.98496575;2809.6
+2021;construction;outpatient sick leave;5.1;2.3;24.98496575;2809.6
+2021;services;outpatient sick leave;5.2;2.6;24.98496575;2809.6
