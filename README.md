@@ -1,45 +1,62 @@
-# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Project 1: Exploring climate data of Singapore
+Project 1: Exploring climate data of Singapore
 
-### Overview
+Project title: Imapact of Climate Change on Energy Cost for Households in Smaller Dwelling Units
 
-Our first module in DSI covers:
-- Basic statistics and probability
-- Many Python programming concepts
-- Programmatically interacting with files and directories
-- Visualizations
-- EDA
-- Working with Jupyter notebooks for development and reporting
-
-You might wonder if you're ready to start doing data science. While you still have **tons** to learn, there are many aspects of the data science process that you're ready to tackle. Project 1 aims to allow you to practice and demonstrate these skills.
-
-For our first project, we're going to analyze climate trends in Singapore. Climate refers to the general weather conditions prevailing over an area for a long period. There are several aspect to studying climate that includes rainfall, temperature, relative humidity, wet build temperature, sun shine duration etc.
-
+### Contact
+Github: https://github.com/MrKiasu/
 
 ### Problem Statement
+Climate change is affecting Singapore in the form of rising temperature and rainfall. How does this impact our electricity consumption? And if so, how much will the cost impact households with lower income? 
+This project aims to make recommendations to policymakers in the Singapore Public Service in order to help support households with lower income.
 
-Generally speaking, you will be asked to come up with a data science problem. This problem is ultimately up to you, but below are some guidelines/things to consider when crafting a problem statement:
-> 1. Consider your audience. Who is your project going to help? Who will your presentation be geared towards? Establishing your audience first can help you narrow down your scope.
-> 2. Consider the data you will use. Based on the contents of this data, think about some questions you could reasonably answer. These questions should aim to solve some kind of problem.
-> 3. Based on these questions, what would bring some kind value to your audience? This can be business insights, increase sales, make decisions, etc.
-> 4. Put everything from the above steps together into a few sentences that describe the specific problem you are trying to solve and who it will benefit.
-> [Here is a blog post](https://towardsdatascience.com/defining-a-data-science-problem-4cbf15a2a461) about crafting a data science problem statement.
+### Datasets
+|Filname|Description|Source|
+|---|---|---|
+rainfall-monthly-total.csv | Monthly total rainfall in Singapore | NEA, https://beta.data.gov.sg/datasets/1399/view
+rainfall-monthly-number-of-rain-days.csv | Monthly number of rain days in Singapore | NEA, https://beta.data.gov.sg/datasets/1398/view
+relative-humidity-monthly-mean.csv | Average monthly relative humidity in Singapore | NEA, https://beta.data.gov.sg/datasets/1404/view
+surface-air-temperature-monthly-mean.csv | Average monthly surface air temperature in Singapore | NEA, https://beta.data.gov.sg/datasets/1419/view
+wet-bulb-temperature-hourly.csv | Average hourly wet bulb temperature in Singapore | NEA, https://beta.data.gov.sg/datasets/1423/view
+T3.5 - Average Monthly Household Electricity Consumption by Planning Area & Dwelling Type.csv | Average Monthly Household Electricity Consumption by Planning Area & Dwelling Type in Singapore | EMA, https://www.ema.gov.sg/resources/singapore-energy-statistics
+T5.1 - Electricity Tariffs.csv | Average monthly electricity tariffs in Singapore | EMA, https://www.ema.gov.sg/resources/singapore-energy-statistics
+average-houshold-size-and-income.csv | Average household size and income in Singapore |DOS, https://www.singstat.gov.sg/publications/reference/cop2020/cop2020-sr2/census20_stat_release2
 
-Here are some example prompts if you need inspiration:
-> * Your work for the Singapore tourism and you are required to advice tourist who visit Singapore and love being outdoors, on how they can be prepared based on their travel months.
-> * You work for a local delivery-app and you want to use weather to better plan your operations.
-> * You are hired by Meteorological Services Singapore to analyze weather trends in Singapore and identify business that might be interested to use them.
-> * You are an outdoor event planner. After covid, you want to create events that families can come and enjoy. 
-> * *Feel free to be creative with your own prompt!*
 
-And here are some example problem statements related to the above prompts. Come up with your own or modify these for your needs:
-> * Weather in Singapore are largely sunny or rainy. However, tourists who are not familiar with local weather conditions may be caught off guard, causing their plans to be disrupted. This project aims to analyse trends in Singapore weather to identify adverse conditions for tourists who enjoy being outdoor. This analysis can help tourist plan travel period and itinerary better, bringing home a pleasant experience.
-> * You are working for a local delivery services company. Every year, delivery operations and customer demand are heavily impacted by rainy weather conditions. This can be circumvented if the company can plan for such conditions beforehand. This project aims to analyse the monthly weather patterns over the year to allow the operations team to better plan and allocate resources during the rainy seasons.
-> * *Feel free to be creative with your own problem statement!*
+### Data Dictionary
+|Feature|Type|Dataset|Description|
+|---|---|---|---|
+|**year**|*integer*|rainfall-monthly-total|Year| 
+|**month**|*integer*|rainfall-monthly-total|Month|
+|**total rainfall**|*float*|rainfall-monthly-total|The monthly total rainfall recorded at the Changi Climate Station in mm(millimeters)|
+|**rainy_days**|*float*|rainfall-monthly-total|The number of rain days (day with rainfall amount of 0.2mm or more) in a month recorded at the Changi Climate Station.|
+|**wet bulb temperature**|*float*|wet-bulb-temperature-hourly|Average of the hourly wet bulb temperature recorded at the Changi Climate Station in degree Celsius|
+|**kwh_per_acc**|*float*|T3.5 - Average Monthly Household Electricity Consumption by Planning Area & Dwelling Type|Average Annual Household Electricity Consumption in kilowatt hours|
+|**dwelling_type**|*string*|T3.5 - Average Monthly Household Electricity Consumption by Planning Area & Dwelling Type|Type of dwelling units (e.g. 3-room flat)|
+|**elect_tariffs**|*float*|T5.1 - Electricity Tariffs|Annual electricity tariffs (weighted average) in cents/kWh|
+|**household_income**|*float*|average-houshold-size-and-income|Average household income|
+|**household_size**|*float*|average-houshold-size-and-income|Average household size|
+
+
+### Conclusion
+Climate change causes rising temperatures (surface air) and rainfall, leading to higher wet bulb temperature.
+With increasing wet bulb temperature, household electricity consumption is expected to increase with the increased use of air conditioning and fans.
+It is also found that electricity cost is a higher proportion of income for those staying in smaller dwelling units despite using less electricity.
+
+Therefore, we expect climate change to disproportionally impact those staying in smaller dwelling in terms of electricity cost.
+
+
+### Recommendation
+A three-pronged approach is recommended:
+1. To mitgate climate change, long term policies are recommended (e.g. to reduce waste).
+2. Electricity tariffs can be scaled such that those who consume more electricity should be charged a higher tariffs.
+3. Provide subsidies directly to those staying in smaller dwelling units (1-3 room flats) 
+
+
 
 
 ---
 
-### Datasets
+
 
 #### Provided Data
 
